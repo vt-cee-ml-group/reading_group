@@ -24,7 +24,7 @@ IDK WRITE SOMETHING... We are a group of civil engineers that have an interested
 	- Python IDLE: This is included with the Anaconda download. NOT recommended.
 	- [Spyder](https://www.spyder-ide.org/) **FREE**
 
-**NOTES:** TensorFlow 2 is now supported on Python 3.7. So instead you will write:
+**NOTES:** TensorFlow 2 is now supported on Python 3.7. When creating a new environment, write the following:
 ```
 conda create -n tensor python=3.7
 ```
@@ -32,4 +32,4 @@ conda create -n tensor python=3.7
 ### Useful Resources for Newbies
 It is important to understand 
 - [Learn to use GitHub:](https://github.com/jlord/git-it-electron) This is a very useful desktop application that details a step-by-step guide on using GitHub.
-- [Excellent YouTube Playlist:](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 
+- [Excellent YouTube Playlist:](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 12 part video series highlighting various subjects in machine learning.
