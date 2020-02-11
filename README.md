@@ -1,9 +1,28 @@
 # CEE Machine Learning Reading/Interest Group
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
-## Meeting Room:
-- Patton Hall, Room 215 
+#### Meeting Room:
+- Patton Hall, Room 215 - 8:00 AM on Fridays
 
-## Meeting Time:
-- 8:00 AM, Fridays
 
+
+
+
+
+
+
+
+
+#### Essential Applications
+- [Anaconda (Python)](https://www.anaconda.com/distribution/) **FREE** This package includes python and many other useful libraries. 
+- IDES: Take a look at all of these options. Pick one.
+	- [PyCharm](https://www.jetbrains.com/pycharm/) **FREE** 
+	- [Atom](https://atom.io/) **FREE**
+	- Python IDLE: This is included with the Anaconda download. 
+- [TensorFlow]()
+
+
+#### Useful Resources for Newbies
+It is important to understand 
+- [Learn to use GitHub](https://github.com/jlord/git-it-electron) This is a very useful desktop application that details a step-by-step guide on using GitHub.
+- [](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 
