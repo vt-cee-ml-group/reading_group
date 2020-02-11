@@ -4,7 +4,9 @@
 #### Meeting Room:
 - Patton Hall, Room 215 - 8:00 AM on Fridays
 
-### 
+### About Us
+IDK WRITE SOMETHING... We are a group of civil engineers that have an interested in machine learning. We hope to find uses for this technology for use in our own research,
+
 
 
 
@@ -24,10 +26,10 @@
 
 **NOTES:** TensorFlow 2 is now supported on Python 3.7. So instead you will write:
 ```
-conda create -n tensor python=3.7`
+conda create -n tensor python=3.7
 ```
 
-#### Useful Resources for Newbies
+### Useful Resources for Newbies
 It is important to understand 
-- [Learn to use GitHub](https://github.com/jlord/git-it-electron) This is a very useful desktop application that details a step-by-step guide on using GitHub.
-- [](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 
+- [Learn to use GitHub:](https://github.com/jlord/git-it-electron) This is a very useful desktop application that details a step-by-step guide on using GitHub.
+- [Excellent YouTube Playlist:](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 
