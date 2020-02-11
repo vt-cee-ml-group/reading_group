@@ -13,7 +13,7 @@
 
 
 
-#### Downloading Python with TensorFlow
+### Downloading Python with TensorFlow
 - [Video Instructions:](https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr&index=2&t=0s) This video shows how to install everything below.  
 - [Anaconda (Python)](https://www.anaconda.com/distribution/) **FREE**: This package includes python and many other useful libraries. 
 - IDES: Take a look at all of these options. Pick one.
@@ -22,10 +22,10 @@
 	- Python IDLE: This is included with the Anaconda download. NOT recommended.
 	- [Spyder](https://www.spyder-ide.org/) **FREE**
 
-**NOTES** TensorFlow 2 is now supported on Python 3.7. When creating the virtual environment. So instead you will write:
-
-'conda create -n tensor python=3.7`
-
+**NOTES:** TensorFlow 2 is now supported on Python 3.7. So instead you will write:
+```
+conda create -n tensor python=3.7`
+```
 
 #### Useful Resources for Newbies
 It is important to understand 
