@@ -5,7 +5,21 @@
 - Patton Hall, Room 215 - 8:00 AM on Fridays
 
 ### About Us
-IDK WRITE SOMETHING... We are a group of civil engineers that have an interested in machine learning. We hope to find uses for this technology for use in our own research,
+#### Who we are:
+We are a group of civil engineers that have an interested in machine learning. 
+
+#### Our mission
+
+
+### Past Papers that were discussed 
+
+
+
+### Past Presenters
+
+
+
+### Research conducted by members
 
 
 
@@ -14,6 +28,8 @@ IDK WRITE SOMETHING... We are a group of civil engineers that have an interested
 
 
 
+
+## Help Section
 
 ### Downloading Python with TensorFlow
 - [Video Instructions:](https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr&index=2&t=0s) This video shows how to install everything below.  
@@ -24,12 +40,12 @@ IDK WRITE SOMETHING... We are a group of civil engineers that have an interested
 	- Python IDLE: This is included with the Anaconda download. NOT recommended.
 	- [Spyder](https://www.spyder-ide.org/) **FREE**
 
-**NOTES:** TensorFlow 2 is now supported on Python 3.7. When creating a new environment, write the following:
+**NOTE:** TensorFlow 2 is now supported on Python 3.7. When creating a new environment, write the following:
 ```
 conda create -n tensor python=3.7
 ```
 
-### Useful Resources for Newbies
-It is important to understand 
+## Useful Resources
 - [Learn to use GitHub:](https://github.com/jlord/git-it-electron) This is a very useful desktop application that details a step-by-step guide on using GitHub.
 - [Excellent YouTube Playlist:](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) 12 part video series highlighting various subjects in machine learning.
+- []
