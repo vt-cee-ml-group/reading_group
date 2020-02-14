@@ -1,4 +1,3 @@
-<<<<<<< patch-2
 # Virginia Tech CEE Machine Learning Reading Group
 <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" width="240" align="right">
 
@@ -38,7 +37,7 @@
 | 04/17 | TBD             | TBD |
 | 04/24 | TBD             | TBD |
 
-Please let Erric (beric7 -at- vt.edu) know if you want to be a presenter of the meeting, and send the slides you are going to present by the end of the Wednesday before your presentation.
+Please let Eric (beric7@vt.edu) know if you want to be a presenter of the meeting, and send the slides you are going to present by the end of the Wednesday before your presentation.
 
 
 ## About us
