@@ -4,7 +4,7 @@
 ### Learn, Share, Help, Grow
 
 - Current Group: Spring 2020
-- Time: 8:00 AM - 9:00 AM
+- Time: ???? TAKE THE POLL (https://www.when2meet.com/?8824490-RS7IH)????
 - Location: Patton Hall 215
 
 <p align="center">
@@ -27,11 +27,11 @@
 | 02/07 | Eric Bianchi    | Introduction to Machine Learning [[Slides](https://www.dropbox.com/s/6smyhkk2morf5z1/Lec01.pdf?dl=0)] |
 | 02/14 | Tianzhi He      | [BESOS](https://besos.uvic.ca/): A Collaborative Building and Energy Simulation Platform [[Faure, Gaëlle, et al](https://dl.acm.org/doi/pdf/10.1145/3360322.3360995?download=true)] |
 | 02/21 | TBD             | TBD |
-| 02/28 | TBD             | TBD |
-| 03/06 | TBD             | TBD |
+| 02/28 | TBD             | Reading |
+| 03/06 | Sayantan        | TBD |
 | 03/13 | -               | No meeting - Spring Break |
-| 03/20 | TBD             | TBD |
-| 03/27 | TBD             | TBD |
+| 03/20 | Reza?           | Current Research on FRP Crack Prediction |
+| 03/27 | Eric Bianchi    | Learning: ENV & TensorFlow Hello World |
 | 04/03 | TBD             | TBD |
 | 04/10 | TBD             | TBD |
 | 04/17 | TBD             | TBD |
